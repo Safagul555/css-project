@@ -26,7 +26,7 @@
     text-align: center;
     color: aliceblue;
     padding: 50px 20px;
-    background-image: url(./asset/image/image.jpg);
+    background-image: url(./images/image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -77,7 +77,7 @@
     width: 100px;
     padding: 80px;
     border-radius: 50%;
-    background-color: gray;
+    background-color: rgb(186, 183, 183);
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -92,7 +92,7 @@ h3 {
 .para {
     margin-top: 5px;
     font-size: 5px;
-    color: #666;
+    color: #a5a2a2;
 }
 
 .circle,
@@ -116,7 +116,7 @@ h1 {
     font-size: 1.5em;
     color: black;
     margin-bottom: 20px;
-    background-image: url(./asset/image/123.jpg);
+    background-image: url(./images/123.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -144,7 +144,7 @@ img {
 
 .container-three p {
     text-align: center;
-    color: gray;
+    color: rgb(186, 183, 183);
 }
 
 .box-container { /*main container*/
@@ -160,7 +160,7 @@ img {
     width: 200px;
     height: 150px;
     border: 2px solid #ddd;
-    background-color: gray;
+    background-color: rgb(186, 183, 183);
     border-radius: 8px;
     display: flex;
     flex-direction: column;
@@ -230,7 +230,7 @@ p {
 .image {
     width: 200px;
     height: 220px;
-    background-image: url(./asset/image/human-brain.jpg);
+    background-image: url(./images/human-brain.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid #000;
@@ -238,32 +238,32 @@ p {
 }
 
 #div1 {
-    background-image: url(./asset/image/tree.jpg);
+    background-image: url(./images/tree.jpg);
 
 }
 
 #div2 {
-    background-image: url(./asset/image/logo.jpg);
+    background-image: url(./images/logo.jpg);
 }
 
 #div3 {
-    background-image: url(./asset/image/horse);
+    background-image: url(./images/horse);
 }
 
 #div4 {
-    background-image: url(./asset/image/grow.jpg);
+    background-image: url(./images/grow.jpg);
 }
 
 #div5 {
-    background-image: url(./asset/image/brain\ work.webp);
+    background-image: url(./images/brain\ work.webp);
 }
 
 #div6 {
-    background-image: url(./asset/image/lion-group.jpg);
+    background-image: url(./images/lion-group.jpg);
 }
 
 #div7 {
-    background-image: url(./asset/image/pro);
+    background-image: url(./images/pro);
 }
 
 .columns {
@@ -355,7 +355,7 @@ p {
     width: 90px;
     padding: 100px;
     border-radius: 50%;
-    background-color: gray;
+    background-color: rgb(186, 183, 183);
     display: inline-block;
     justify-content: center;
     align-items: center;
